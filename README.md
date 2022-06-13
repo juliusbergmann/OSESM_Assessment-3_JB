@@ -16,4 +16,12 @@ limitations under the License.
 
 # Assignment 3 for 370.062 OSESM by Julius Bergmann
 
-In this homework we should work with the MESSAGE-ix framework and add a PV-system to the westeros tutorial
+In this homework we should work with the MESSAGE-ix framework and add a PV-system to the westeros tutorial.
+
+## Results
+The goal was to simulate at what carbon cap all three electricity generation types (coal, wind and pv) are used.
+This could not be achieved because wind is so cheap that in simulation only wind power is installed.
+I tried to limit the growth of the generation types, but the simulation crashed, when the value was below 8%.
+
+So sadly this is the result. 
+
